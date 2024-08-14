@@ -1,5 +1,9 @@
 # Black Jack game
 
+`
+python JEU.py
+`
+
 Le fichier JEU.py est le fichier principal, il contient l'interface graphique complete,
 c'est également celui qui contient le plus de commentaires et d'explications sur le fonctionnement du programme.
 Il est pret a etre lancé.
